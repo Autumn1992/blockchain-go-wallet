@@ -1,0 +1,8 @@
+{
+  "invalid_token": "Jeton invalide",
+  "pwd_not_match": "Les mots de passe sont incohérents",
+  "pwd_error": "Mauvais mot de passe",
+  "mnemonic_not_valid": "La phrase mnémonique n'est pas valide",
+  "backup_mnemonic_fail": "Le mnémonique de sauvegarde a échoué",
+  "parameter_incorrect": "Le paramètre n'est pas valide"
+}

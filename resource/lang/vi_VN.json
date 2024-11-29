@@ -1,0 +1,8 @@
+{
+  "invalid_token": "Mã thông báo không hợp lệ",
+  "pwd_not_match": "Mật khẩu không nhất quán",
+  "pwd_error": "Sai mật khẩu",
+  "mnemonic_not_valid": "Cụm từ ghi nhớ không hợp lệ",
+  "backup_mnemonic_fail": "Việc ghi nhớ sao lưu không thành công",
+  "parameter_incorrect": "Tham số không hợp lệ"
+}

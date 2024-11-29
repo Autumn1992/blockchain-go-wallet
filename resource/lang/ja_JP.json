@@ -1,0 +1,8 @@
+{
+  "invalid_token": "無効なトークン",
+  "pwd_not_match": "パスワードが一致しません",
+  "pwd_error": "パスワードが間違っています",
+  "mnemonic_not_valid": "ニーモニックフレーズが無効です",
+  "backup_mnemonic_fail": "バックアップニーモニックが失敗しました",
+  "parameter_incorrect": "パラメータが無効です"
+}

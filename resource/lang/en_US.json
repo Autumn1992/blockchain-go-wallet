@@ -1,0 +1,8 @@
+{
+  "Invalid_token": "Invalid token",
+  "Pwd_not_match": "Password inconsistency",
+  "Pwd_error": "Password error",
+  "Mnemonic not_valid": "Mnemonic word invalid",
+  "Backup_mnemonic_fail": "Backup mnemonic failed",
+  "Parameter_incorrect": "The parameter is invalid"
+}

@@ -1,0 +1,8 @@
+{
+  "invalid_token": "โทเค็นไม่ถูกต้อง",
+  "pwd_not_match": "รหัสผ่านไม่สอดคล้องกัน",
+  "pwd_error": "รหัสผ่านผิด",
+  "mnemonic_not_valid": "วลีช่วยจำไม่ถูกต้อง",
+  "backup_mnemonic_fail": "การสำรองข้อมูลช่วยจำล้มเหลว",
+  "parameter_incorrect": "พารามิเตอร์ไม่ถูกต้อง"
+}

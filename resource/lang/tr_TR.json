@@ -1,0 +1,8 @@
+{
+  "invalid_token": "Geçersiz belirteç",
+  "pwd_not_match": "Şifreler tutarsız",
+  "pwd_error": "Yanlış şifre",
+  "mnemonic_not_valid": "Anımsatıcı ifade geçersiz",
+  "backup_mnemonic_fail": "Yedekleme anımsatıcısı başarısız oldu",
+  "parameter_incorrect": "Parametre geçersiz"
+}

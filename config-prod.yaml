@@ -1,0 +1,23 @@
+mysql:
+  username: payment
+  pwd: NknfbEYjaAZf5YZr
+  host: 127.0.0.1:3306
+  db-name: payment
+
+redis:
+  - host: 127.0.0.1:6379
+    db: 10
+    pwd: xdrf23SDD!1
+  - host: 127.0.0.1:6379
+    db: 15
+    pwd: xdrf23SDD!1
+
+globalconf:
+  PayRedirectUrl: "https://deposit.newpay88.com?orderid="
+  ServerName: "NewPay"
+
+# mongodb:
+#   host: mongodb://tggameAdminNew1:tggameAdminNew1++..@47.236.226.57:20022/?authSource=admin&authMechanism=SCRAM-SHA-256
+# rabitmq:
+#   host: amqp://admin:pcHktFZ7@47.236.226.57:5672/
+

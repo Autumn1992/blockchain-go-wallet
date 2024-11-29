@@ -1,0 +1,13 @@
+mysql:
+  username: wallet
+  pwd: 123456
+  host: 127.0.0.1:3306
+  db-name: wallet
+
+redis:
+  - host: 127.0.0.1:6379
+    db: 10
+    pwd: 1234556
+  - host: 127.0.0.1:6379
+    db: 15
+    pwd: 1234556

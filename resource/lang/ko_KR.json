@@ -1,0 +1,8 @@
+{
+  "invalid_token": "잘못된 토큰",
+  "pwd_not_match": "비밀번호가 일치하지 않습니다",
+  "pwd_error": "잘못된 비밀번호",
+  "mnemonic_not_valid": "기호 문구가 잘못되었습니다",
+  "backup_mnemonic_fail": "백업 니모닉 실패",
+  "parameter_incorlect": "매개변수가 잘못되었습니다."
+}
